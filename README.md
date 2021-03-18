@@ -1,7 +1,15 @@
 # Code Test Study  
 ### 2021 하반기 코딩테스트 준비를 위한 repository &#128194; 
   
-## collaborator  
+## Curriculum 
+Date | Discription | Remark
+:-: | :-: | :-:
+ | |  
+   
   
-@hrlee113 &#128036;  
-@yunee29 &#128049;
+  
+## Contributor  
+<div>
+<a href="https://github.com/hrlee113">yunee29 &#128049; </a>
+<a href="https://github.com/hrlee113">hrlee113 &#128036; </a>
+</div>
