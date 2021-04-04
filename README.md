@@ -4,13 +4,13 @@
 ## Curriculum 
 Date | Discription | Remark
 :-: | :-: | :-:
- | |  
+04/ | |  
    
   
   
 ## Contributor  
 <pre>
-<a href="https://github.com/bominkm"> Github :: bominkm 🐿 </a>  
+<a href="https://github.com/bominkm"> Github :: bominkm &#128063; </a>  
 <a href="https://github.com/yunee29"> Github :: yunee29 &#128049; </a>  
 <a href="https://github.com/hrlee113"> Github :: hrlee113 &#128036; </a>
 </pre>
