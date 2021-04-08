@@ -4,8 +4,8 @@
 ## Curriculum 
 Date | Discription | Check
 :-: | :-: | :-:
-  
-우린 언제쯤 바람을 쐬러가게될까
+4/8 | Week1. 출제경향 및 파이썬 문법 | ✅  
+4/15 | Week2. 그리디 | 
   
 ## Contributor  
 <pre>
