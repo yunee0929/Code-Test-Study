@@ -4,8 +4,9 @@
 ## Curriculum 
 Date | Discription | Remark
 :-: | :-: | :-:
-04/09 | |  
-   
+4/8 | 1단원 인강, 정리 | ✅ 
+4/15 | 그리디 인강, 예제 외우기 |  
+4/22 |  |   
   
   
 ## Contributor  
